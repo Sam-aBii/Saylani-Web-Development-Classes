@@ -1,0 +1,29 @@
+/* 
+body{
+    background-color: brown;
+}
+
+@media only screen and (max-width: 600px){
+    body{
+      background-color: chartreuse;
+    }
+    img{
+        width: 400px;
+    }
+} */
+
+/* .main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+
+.one , .two , .three{
+    border: 2px solid red;
+    width: 300px;
+    text-align: center;
+} */
