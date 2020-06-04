@@ -1,0 +1,9 @@
+.navbar{
+    background-color: seagreen !important;
+
+}
+
+.nav-link , .navbar-brand{
+    color: white !important;
+    font-weight: bold !important;
+}
