@@ -27,6 +27,8 @@ for(var i=0; i< cities.length; i++){
 }
 
 
+
+
    
 
 var month = prompt("Enter a month");
@@ -42,3 +44,11 @@ if(monthLength > 3){
     alert("Wrong input");
     alert(month);
 } 
+
+
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
