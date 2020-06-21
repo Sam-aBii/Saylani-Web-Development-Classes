@@ -68,7 +68,7 @@ function foo(){
 
 }
 
-console.log(foo()) // undefined
+console.log(foo()) 
 
 var name = "Ghous"
 
