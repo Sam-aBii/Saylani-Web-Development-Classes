@@ -1,0 +1,57 @@
+/* #box{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    background-color: aquamarine;
+    position: relative;
+}
+
+
+#test{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+} */
+
+
+
+/* h1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 10px;
+    width: 100%;
+    background-color: #efefef;
+    z-index: 1;
+}
+p {
+position: relative;
+top: 70px;
+left: 70px;
+} */
+
+
+
+#box1{
+    width: 500px;
+    border: 2px solid rebeccapurple;
+    background: red;
+    float: left;
+}
+#box2{
+    width: 500px;
+    border: 2px solid rebeccapurple;
+    background: red;
+    float: right;
+}
+#box3{
+    width: 100%;
+    border: 2px solid rebeccapurple;
+    background: red;
+    clear: left;
+}
